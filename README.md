@@ -1,4 +1,4 @@
-![Português](https://py2learn.github.io/Py2Learn/)
+[Português](https://py2learn.github.io/Py2Learn/)
 
 
 # Before you start this course, we are going to teach you how to use a notebook. 
