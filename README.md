@@ -1,3 +1,6 @@
+![Português](https://py2learn.github.io/Py2Learn/)
+
+
 # Before you start this course, we are going to teach you how to use a notebook. 
 
 ## To run a cell, you only need to select the cell and then click on **Run**.
@@ -18,5 +21,4 @@
 
 ## Click on the icon above and start learning!!!
 
-
-Inglês [![English](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/Py2LearnEng/master)
+[![English](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/Py2LearnEng/master)
